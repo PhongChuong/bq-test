@@ -16,7 +16,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        String projectId = "YOUR_PROJECT";
+        String projectId = "TODO";
 
         // BigQuery bq = BigQueryOptions.getDefaultInstance().getService();
 
